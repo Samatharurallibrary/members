@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693224824570,
+  "timestamp": 1693302644709,
   "index": "/members/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/members/favicon.ico",
         "/members/index.html",
-        "/members/main.3d9819aa5fcd9b7f.js",
+        "/members/main.5220bd1b7f639ad5.js",
         "/members/manifest.webmanifest",
         "/members/polyfills.9298846d0778444f.js",
         "/members/runtime.9ff630ea881037c9.js",
-        "/members/styles.125d2c12d407796c.css"
+        "/members/styles.ebcc8182fdcff475.css"
       ],
       "patterns": []
     },
@@ -29,9 +29,12 @@
         "ignoreVary": true
       },
       "urls": [
+        "/members/assets/1.jpg",
         "/members/assets/Book.svg",
         "/members/assets/Jhon.jpg",
         "/members/assets/Shaji.jpg",
+        "/members/assets/banner.avif",
+        "/members/assets/banner.jfif",
         "/members/assets/banner.jpg",
         "/members/assets/book1.jpg",
         "/members/assets/book2.jpg",
@@ -44,18 +47,20 @@
         "/members/assets/icons/icon-384x384.png",
         "/members/assets/icons/icon-512x512.png",
         "/members/assets/icons/icon-72x72.png",
-        "/members/assets/icons/icon-96x96.png",
-        "/members/banner.8b72180ad99df36c.jpg"
+        "/members/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/members/assets/1.jpg": "5502233455dff1ad6a4bbea108f0efff1d0b7327",
     "/members/assets/Book.svg": "270077a8a5403b504c68ef9e4a0217ba25014ed6",
     "/members/assets/Jhon.jpg": "72201502c00c7ff7bbda6355d9d7a2abe0085b99",
     "/members/assets/Shaji.jpg": "9396e88cade9d64921e4d270f9b997498717a301",
-    "/members/assets/banner.jpg": "5502233455dff1ad6a4bbea108f0efff1d0b7327",
+    "/members/assets/banner.avif": "344e506326cc6630299b1d25aaf49975a0e960b0",
+    "/members/assets/banner.jfif": "9e280bc23f8d96b09be9e61093bded5de3590921",
+    "/members/assets/banner.jpg": "3d27dc32a28e40aed15835f13f5531260686e03f",
     "/members/assets/book1.jpg": "b13d8c86a83310f4e7099349936e4b6a64905870",
     "/members/assets/book2.jpg": "477fd5341510d3aae57cb6f286a397d8a423c80d",
     "/members/assets/book3.jpg": "31389fba94b6ee1e2d73886e4d5e3f646d17b241",
@@ -68,14 +73,13 @@
     "/members/assets/icons/icon-512x512.png": "64da457cf8ea4aee4f517e1a991c0e6b879d5da3",
     "/members/assets/icons/icon-72x72.png": "4af58fa94eca50c2cd773f00f14d1eaaa50a8fe6",
     "/members/assets/icons/icon-96x96.png": "1eda0dea79de9934f1e1ae727863ae8b8fbeb245",
-    "/members/banner.8b72180ad99df36c.jpg": "5502233455dff1ad6a4bbea108f0efff1d0b7327",
     "/members/favicon.ico": "ce76ce1ab9529055600096438bda6e0587f47409",
-    "/members/index.html": "cc986e9d9da3eca7dac057d622307c41866ed717",
-    "/members/main.3d9819aa5fcd9b7f.js": "3cf2b70d37914d2c1b81c56c935f38ac57b4a175",
+    "/members/index.html": "05c24656471d7799411818108fea6d6041a7c617",
+    "/members/main.5220bd1b7f639ad5.js": "a695c64dc72488c3bb9b328c43b7d866e29778de",
     "/members/manifest.webmanifest": "f2b6e4cca046be1cf4383d81b46a3f5932cef42a",
     "/members/polyfills.9298846d0778444f.js": "24305c0c1d94a6135e8c3f4d322e9c0be34c7649",
     "/members/runtime.9ff630ea881037c9.js": "b3412e88e7c2f07bc830d68ab9673322697ce0aa",
-    "/members/styles.125d2c12d407796c.css": "29fc48a5b0f7431491ffdc9845c9503184d98281"
+    "/members/styles.ebcc8182fdcff475.css": "f3abe78fc979783cf37c5c9928a71c39c41f98b4"
   },
   "navigationUrls": [
     {
