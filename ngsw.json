@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693310314150,
+  "timestamp": 1693311960345,
   "index": "/members/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/members/favicon.ico",
         "/members/index.html",
-        "/members/main.4161517b2d2c4b1c.js",
+        "/members/main.8d9662f871dada21.js",
         "/members/manifest.webmanifest",
-        "/members/polyfills.9298846d0778444f.js",
-        "/members/runtime.9ff630ea881037c9.js",
+        "/members/polyfills.7ee6aa3de57daf66.js",
+        "/members/runtime.84c15f5d93e320a5.js",
         "/members/styles.ebcc8182fdcff475.css"
       ],
       "patterns": []
@@ -29,17 +29,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/members/assets/1.jpg",
-        "/members/assets/Book.svg",
         "/members/assets/Jhon.jpg",
         "/members/assets/Shaji.jpg",
-        "/members/assets/banner.avif",
         "/members/assets/banner.jfif",
-        "/members/assets/banner.jpg",
-        "/members/assets/book1.jpg",
-        "/members/assets/book2.jpg",
-        "/members/assets/book3.jpg",
-        "/members/assets/book4.jpg",
         "/members/assets/icons/icon-128x128.png",
         "/members/assets/icons/icon-144x144.png",
         "/members/assets/icons/icon-152x152.png",
@@ -54,17 +46,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/members/assets/1.jpg": "5502233455dff1ad6a4bbea108f0efff1d0b7327",
-    "/members/assets/Book.svg": "270077a8a5403b504c68ef9e4a0217ba25014ed6",
     "/members/assets/Jhon.jpg": "72201502c00c7ff7bbda6355d9d7a2abe0085b99",
     "/members/assets/Shaji.jpg": "9396e88cade9d64921e4d270f9b997498717a301",
-    "/members/assets/banner.avif": "344e506326cc6630299b1d25aaf49975a0e960b0",
     "/members/assets/banner.jfif": "9e280bc23f8d96b09be9e61093bded5de3590921",
-    "/members/assets/banner.jpg": "3d27dc32a28e40aed15835f13f5531260686e03f",
-    "/members/assets/book1.jpg": "b13d8c86a83310f4e7099349936e4b6a64905870",
-    "/members/assets/book2.jpg": "477fd5341510d3aae57cb6f286a397d8a423c80d",
-    "/members/assets/book3.jpg": "31389fba94b6ee1e2d73886e4d5e3f646d17b241",
-    "/members/assets/book4.jpg": "11e41d2db118b92ef2903671eb9c86e5b3fc9945",
     "/members/assets/icons/icon-128x128.png": "6bd8cd2649da32bb4c02a494b4dccaf6363882c5",
     "/members/assets/icons/icon-144x144.png": "097435e2c985c3039fe61c7c98b2cd0f89928341",
     "/members/assets/icons/icon-152x152.png": "056647a85767d662f3cff0bd51367378a4fb75f9",
@@ -74,11 +58,11 @@
     "/members/assets/icons/icon-72x72.png": "4af58fa94eca50c2cd773f00f14d1eaaa50a8fe6",
     "/members/assets/icons/icon-96x96.png": "1eda0dea79de9934f1e1ae727863ae8b8fbeb245",
     "/members/favicon.ico": "ce76ce1ab9529055600096438bda6e0587f47409",
-    "/members/index.html": "bddd319d1936a9fca722f01d1866c80ba54c71a7",
-    "/members/main.4161517b2d2c4b1c.js": "89f1fad08a9aef090e7e7cdf14e382b44c4b229f",
-    "/members/manifest.webmanifest": "f2b6e4cca046be1cf4383d81b46a3f5932cef42a",
-    "/members/polyfills.9298846d0778444f.js": "24305c0c1d94a6135e8c3f4d322e9c0be34c7649",
-    "/members/runtime.9ff630ea881037c9.js": "b3412e88e7c2f07bc830d68ab9673322697ce0aa",
+    "/members/index.html": "065ce87d32e3a69380f44bf0a761cff1350a060f",
+    "/members/main.8d9662f871dada21.js": "b5181aa4c48386019adc9b7e862f72a55dbc63f0",
+    "/members/manifest.webmanifest": "7b56c268a889729d4b3def3b68b587aea5c37ac4",
+    "/members/polyfills.7ee6aa3de57daf66.js": "7e1bd16e50e646c26d93a4a81127f69aad3fbba1",
+    "/members/runtime.84c15f5d93e320a5.js": "d3884bd04ced9acf5cc0bdcea6f0540927d73cad",
     "/members/styles.ebcc8182fdcff475.css": "f3abe78fc979783cf37c5c9928a71c39c41f98b4"
   },
   "navigationUrls": [
